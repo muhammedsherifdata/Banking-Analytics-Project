@@ -68,18 +68,25 @@ Main entities:
 
 ## 🚧 Project Status
 
-✔ Database Created
+## 📈 Key Findings
 
-✔ Data Imported
+Analysis of the full banking dataset (60K customers, 2M transactions, 65K cards, 22K loans) surfaced the following:
 
-✔ Data Validation
+- **Churn risk:** 32.6% of customers (about 20K) fall in the high churn-risk group.
+- **Loan quality:** about 10% of loans are defaulted or written off.
+- **Loan repayment:** the overall loan repayment rate is 55.3%.
 
-✔ Power Query Cleaning
+## 📊 Power BI Report
 
-✔ DAX Development
+A 4-page interactive report built on a star-schema model with a Date dimension (active and inactive relationships, role-playing dimension). KPIs are built with DAX measures using time intelligence for customer growth, transaction performance, account balances and YoY/MoM trends.
 
-✔ Dashboard Design
+<!-- Add your dashboard screenshots here, for example: -->
+<!-- ![Dashboard page 1](03_PowerBI/screenshots/page1.png) -->
 
-✔ Business Insights
+## 📚 Documentation
 
-✔ Final Report
+- `01_Project_Overview.md`: project scope and workflow
+- `02_Business_Requirements.md`: business questions and KPI requirements
+- `03_Data_Dictionary.md`: tables, columns and definitions
+- `04_Data_Quality_Report.md`: validation and reconciliation checks and results
+- `04_Documentation/`: supporting documents (add a link to your final report here)

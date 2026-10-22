@@ -74,12 +74,12 @@ Main entities:
 
 ✔ Data Validation
 
-🔄 Power Query Cleaning
+✔ Power Query Cleaning
 
-⬜ DAX Development
+✔ DAX Development
 
-⬜ Dashboard Design
+✔ Dashboard Design
 
-⬜ Business Insights
+✔ Business Insights
 
-⬜ Final Report
+✔ Final Report

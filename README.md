@@ -38,7 +38,7 @@ The project covers the full lifecycle of a data analytics solution, starting fro
 Banking-Analytics-Project
 
 ├── 01_Database
-├── 02_SQL
+├── 02_SQL_Analysis
 ├── 03_PowerBI
 ├── 04_Documentation
 └── README.md
